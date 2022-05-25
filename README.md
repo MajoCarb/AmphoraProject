@@ -1,6 +1,7 @@
 # AmphoraProject
 
-I created an environment using Anaconda in which I imported all the necessary tools
+I created an environment using Anaconda in which I imported all the necessary tools.
+
 My code was built with Python 3.7.13
 
 To run the program, make sure to have imported:
